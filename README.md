@@ -3,14 +3,14 @@
 
 # GÜNCELLEME NOTLARI #
 
-##V1.2
+## V1.2
 ### Ayt ve yerleştirme puanları detaylandırıldı
 ### Türkçe karakter sorunu giderildi
 
-##V1.1
+## V1.1
 ### AYT hesaplaması ve sıralaması eklendi.
 
-##V1.0
+## V1.0
 ### TYT ham puan ve basit sıralama verileri eklendi.
 
 
